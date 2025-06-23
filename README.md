@@ -54,4 +54,51 @@ Para ejecutar este proyecto, necesitarás:
 
 1. **Clona este repositorio**:
    ```bash
-   git clone https://github.com/TU_USUARIO/CurrencyConverter-Java-API.git 
+   git clone https://github.com/TU_USUARIO/CurrencyConverter-Java-API.git
+
+---
+
+## Uso
+
+- Ejecuta el programa en IntelliJ IDEA.
+- Sigue las instrucciones en la consola:
+  1. Ingresa la moneda base (ej. USD).
+  2. Ingresa la moneda objetivo (ej. EUR).
+  3. Ingresa el monto a convertir.
+- El programa mostrará el resultado de la conversión y almacenará el historial.
+
+---
+
+## Historial de Conversiones
+
+El programa incluye una funcionalidad opcional para registrar el historial de conversiones con marcas de tiempo. Puedes ver el historial ingresando la opción correspondiente en el menú.
+
+---
+
+## Contribuciones
+
+¡Las contribuciones son bienvenidas! Si deseas mejorar este proyecto, sigue estos pasos:
+
+1. Haz un fork del repositorio.
+2. Crea una nueva rama (git checkout -b feature/nueva-funcionalidad).
+3. Haz commit de tus cambios (git commit -m "Añadir nueva funcionalidad").
+4. Sube tus cambios (git push origin feature/nueva-funcionalidad).
+5. Abre un Pull Request.
+
+---
+
+## Licencia
+
+Este proyecto está bajo la licencia MIT. Consulta el archivo LICENSE para más detalles.
+
+---
+
+## Contacto
+
+Si tienes preguntas o sugerencias puedes comunicarte conmigo.
+
+- **Nombre**: Cesar Andres Cedeño
+- **Email**:  cedenogasca@gmail.com
+- **GitHub**: [@ceibor25](https://github.com/ceibor25)
+
+---
