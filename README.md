@@ -20,6 +20,7 @@ Un conversor de monedas desarrollado en Java que utiliza la API de ExchangeRate-
 - [Contribuciones](#contribuciones)
 - [Licencia](#licencia)
 - [Contacto](#contacto)
+- [Agradecimientos](#Agradecimientos)
 
 ---
 
@@ -100,5 +101,13 @@ Si tienes preguntas o sugerencias puedes comunicarte conmigo.
 - **Nombre**: Cesar Andres Cedeño
 - **Email**:  cedenogasca@gmail.com
 - **GitHub**: [@ceibor25](https://github.com/ceibor25)
+
+---
+
+## Agradecimientos
+
+El desarrollo de este proyecto ha sido gracias a los instructores de Alura Latam, un equipo fenomenal.
+
+- Inspirado por [Alura Latam](https://www.aluracursos.com/)
 
 ---
