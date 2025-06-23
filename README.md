@@ -60,12 +60,12 @@ Para ejecutar este proyecto, necesitarás:
 
 ## Uso
 
-- Ejecuta el programa en IntelliJ IDEA.
-- Sigue las instrucciones en la consola:
-  1. Ingresa la moneda base (ej. USD).
-  2. Ingresa la moneda objetivo (ej. EUR).
-  3. Ingresa el monto a convertir.
-- El programa mostrará el resultado de la conversión y almacenará el historial.
+1. Ejecuta el programa en IntelliJ IDEA.
+2. Sigue las instrucciones en la consola:
+* Ingresa la moneda base (ej. USD).
+* Ingresa la moneda objetivo (ej. EUR).
+* Ingresa el monto a convertir.
+3. El programa mostrará el resultado de la conversión y almacenará el historial.
 
 ---
 
